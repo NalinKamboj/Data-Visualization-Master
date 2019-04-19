@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+#polar-chart {
+  height: 700px;
+}
+
+#minard-map {
+  height: 700px;
+}
+
+.nav-list {
+  height: 10vh;
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: auto;
+  list-style: none;
+}
+
+.nav-links {
+  text-decoration: none;
+  color: black;
+  font-size: 1.7rem;
+}
+
+.polar-chart,
+.minard-map {
+  height: 90vh;
+  position: absolute;
+  width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  margin: 20px 20px;
+}
+
+.polar-chart {
+  padding: 15px;
+  background-image: linear-gradient(110deg, #a8edea 0%, #fed6e3 100%);
+}
+
+.minard-map {
+  padding: 15px;
+  background-image: linear-gradient(210deg, #d299c2 0%, #fef9d7 100%);
+}
+
+/*# sourceMappingURL=/style.e0c02e61.css.map */

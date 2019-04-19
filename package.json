@@ -1,0 +1,18 @@
+{
+  "name": "datavizmain",
+  "version": "1.0.0",
+  "description": "Data Visualizations by NK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nalin Kamboj",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.18.0"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.1.2",
+    "gsap": "^2.1.2"
+  }
+}
